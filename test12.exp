@@ -1,0 +1,7 @@
+rows and columns should be integers. So they are truncated
++--------+
+|   *    |
+|  ***   |
+| *****  |
+|******* |
++--------+
